@@ -1,0 +1,21 @@
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ route_check ] --START--
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Run CheckRoute Behavior [ RunTime:0.000972s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ route_check ] --END-- [ RunTime:0.001055s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ app_begin ] --START--
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000434s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000491s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ view_template ] --START--
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Run LocationTemplate Behavior [ RunTime:0.033384s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ view_template ] --END-- [ RunTime:0.033486s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ view_parse ] --START--
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Run ParseTemplate Behavior [ RunTime:0.061118s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ view_parse ] --END-- [ RunTime:0.061202s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ view_filter ] --START--
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Run ContentReplace Behavior [ RunTime:0.000597s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Run TokenBuild Behavior [ RunTime:0.000577s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000438s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Run ShowRuntime Behavior [ RunTime:0.000613s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002396s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ view_end ] --START--
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Run ShowPageTrace Behavior [ RunTime:0.008136s ]
+[ 2014-08-28T14:21:25+08:00 ] /v/Login/index | INFO: Tag[ view_end ] --END-- [ RunTime:0.008209s ]
